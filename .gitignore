@@ -1,0 +1,6 @@
+**/bin
+**/obj
+**/.vs
+/.idea
+/packages
+WpfApplication1.sln.DotSettings.user
